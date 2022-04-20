@@ -1,0 +1,15 @@
+# Folders
+x64/
+include/GLFW/
+.vs/
+
+# File Types
+*.sln
+*.vcxproj
+*.filters
+*.user
+*.lib
+
+# Specific Files
+include/glad.h
+lib/glad.c
